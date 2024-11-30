@@ -21,3 +21,5 @@ Replace {Container Name} with the name you want to mark the container as
 Firefox runs as a non-root user
 
 To set gui connection on host: xhost +
+
+I don't own any of the install packages
