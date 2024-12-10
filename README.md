@@ -2,7 +2,7 @@
 Firefox Browser Docker
 
 # To Build
-docker build -it firefox:{Version You Want} {Path of the Docker File} --no-cache
+docker build -t firefox:{Version You Want} {Path of the Docker File} --no-cache
 
 # To Run
 docker run --rm \
